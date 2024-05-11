@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn about programming and projects
 - 🌱 I’m currently learning computer sciences 
 - 💞️ I’m looking to collaborate on nothing for now 
-- 📫 How to reach me email: gabrielpsd3@gmail.com
+- Funtional Paradig over OOP :)
 
 <!---
 Gabrielpsd/Gabrielpsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
